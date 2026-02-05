@@ -1,4 +1,4 @@
 -- My coomment
 
-SELECT mysql
+SELECT IF EXITST mysql
 FROM orderlines;
