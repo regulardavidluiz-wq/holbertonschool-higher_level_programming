@@ -1,4 +1,4 @@
 -- My coomment
 
-SHOW TABLES mysql
+SHOW TABLES;
 
