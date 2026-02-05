@@ -1,2 +1,2 @@
-//My comment
+-- My comment
 SHOW DATABASES;
