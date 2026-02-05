@@ -1,5 +1,4 @@
 -- My coomment
 
 SELECT mysql
-FROM INFORMATION_SCHEMA.TABLES
-WHERE TABLE_TYPE = 'BASE TABLE';
+FROM orderlines;
