@@ -1,2 +1,2 @@
 -- My comment
-SELECT COUNT(id) FROM first_table;
+SELECT COUNT(89) FROM first_table;
